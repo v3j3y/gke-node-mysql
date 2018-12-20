@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.13"
+    "express": "^4.13",
+    "mysql": "^2.16.0"
   }
 }
-
